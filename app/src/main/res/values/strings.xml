@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="action_map">Карта</string>
+    <string name="action_list">Список городов</string>
+    <string name="action_gps">Текущее положение</string>
+    <string name="weather_key">2ba163ce87da7a7a4c31494a66103631</string>
+    <string name="city_list">Выберите город</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
